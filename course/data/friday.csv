@@ -1,0 +1,10 @@
+activity;start_time;duration;is_outdoor
+Healthy Breakfast;07:00;0.2;0
+Bus;07:30;0.5;1
+School;08:15;4;0
+Bus;12:00;0.4;1
+Lunch at home;13:00;0.7;0
+Driving hours;13:55;2;1
+Catching Pokemons;16:55;1;1
+Dinner;18:30;0.6;0
+Movie at cinema;20:00;2;0
