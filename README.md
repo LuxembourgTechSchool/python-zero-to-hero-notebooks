@@ -2,11 +2,11 @@
 
 ## Course Material - Jupyter Notebooks
 
-This is the jupyter notebooks for following the LTS course "Zero to Hero in Python".
+Here are the jupyter notebooks for following the LTS course "Zero to Hero in Python".
 
-Just download this entire repository, launch your Juypter server (Easiest with [Anaconda](https://www.continuum.io/downloads)).
+Just download this entire repository, launch your Juypter server (Easiest with [Anaconda](https://www.continuum.io/downloads)) and you are ready to go.
 
-The notebooks to fill up by watching the videos are under `/course`. (`/solution` contains the complete notebooks. Do not cheat! )
+Under `/course`, you have the notebooks to fill up while watching the videos. (`/solution` contains the completed notebooks. Do not cheat! )
 
 ## Licence
 
